@@ -1,0 +1,67 @@
+body{
+    background-color: lightgray;
+}
+main{
+    max-width: 800px;
+    margin:auto;
+    background-color: white;
+    padding: 30px;
+    border-radius:15px;
+
+    box-shadow:0px 4px 20px rgba(0,0,0,0.15);
+}
+h1{
+    text-align: center;
+    color: blue;
+
+}
+input[type="text"],
+input[type="email"],
+input[type="date"],
+select,
+textarea{
+    width:100%;
+    padding:10px;
+    margin-top: 5px;
+    margin-bottom:15px;
+    border:1px solid #ccc;
+    border-radius:5px;
+    box-sizing: border-box;
+}
+button{
+    width: 100%;
+    padding: 12px;
+
+    background-color: royalblue;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+
+    font-size: 16px;
+}
+
+
+
+textarea{
+    height: 100px;
+}
+label{
+    font-weight: bold;
+} 
+h1{
+    text-align: center;
+    color: royalblue;
+    margin-bottom: 30px;
+}
+
+input:focus,
+select:focus,
+textarea:focus{
+    outline: none;
+    border-color: royalblue;
+}
+button:hover{
+    background-color: #1f3c88;
+    cursor: pointer;
+}
