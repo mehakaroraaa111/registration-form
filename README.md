@@ -23,6 +23,6 @@ A simple and responsive Student Registration Form built using HTML and CSS.
 Mehak Arora
 
 ## Project Status
-completed as a part of my html and css journey
+
 
 Completed as part of my HTML and CSS learning journey.
